@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "mini-weather-api",
+      "title": "Mini Weather API",
+      "description": "Build a beginner-friendly REST API that serves city weather data with FastAPI",
+      "path": "assignments/mini-weather-api",
+      "dueDate": "2026-09-26",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
